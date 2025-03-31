@@ -1,5 +1,5 @@
 # QB-QuestionSplitter
-Splits QuizBowl PDF Sets (currently designed for IAC history bowl sets specifically) into a text file with each sentence individually seperated with the answer. Can be used for designing flashcards, researching patterns, or easily indexing through past questions.
+Splits QuizBowl PDF Sets (currently designed for IAC history bowl sets specifically) into a text file with each sentence individually seperated with the answer. Can be used for designing flashcards, researching patterns, or easily indexing through past questions. Currently working on making it work for QuizBowl PDFs formatted differently and retaining specific answer line information (bolded words).
 
 # USE:
 1. Download Question Set(s) as PDF (https://www.iacompetitions.com/resources-national-history-bowl/)
